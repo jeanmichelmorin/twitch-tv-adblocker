@@ -5,7 +5,7 @@ https://chrome.google.com/webstore/detail/twitch-adblock/ljhnljhabgjcihjoihakgdi
 
 https://github.com/cleanlock/VideoAdBlockForTwitch
 
-I will keep the old code in here for archive purposes.
+My repository will keep the old code for archive purposes.
 
 # Twitch TV Adblocker
 
