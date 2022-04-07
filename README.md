@@ -1,5 +1,5 @@
 # EDIT: Use this instead https://chrome.google.com/webstore/detail/twitch-adblock/ljhnljhabgjcihjoihakgdiicdjncpkd
-The original owner was saucettv. The original developer added a ref link when you purchase something off Amazon. He completely disapeared with the extension. But a team of dev took care of removing that stuff. You can find the new things here.
+The original owner was saucettv. The original developer added a ref link when you purchase something off Amazon. He completely disappeared with the extension. But a team of dev took care of removing that stuff. You can find the new things here.
 
 https://chrome.google.com/webstore/detail/twitch-adblock/ljhnljhabgjcihjoihakgdiicdjncpkd
 
