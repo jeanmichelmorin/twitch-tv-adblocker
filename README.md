@@ -4,6 +4,8 @@ This extension was removed from the Chrome Web Store for "not respecting their p
 
 <b>I do not own this code</b>, but I want to keep this extension up, as it is the only extension that still works as far of <b>April 6th 2022</b>.
 
+If you're the owner of this code, please reach out to me.
+
 Chrome may turn it off automatically sometimes, since it seems to be tied to an ID for the Chrome Web Store.
 
 # How to install:
