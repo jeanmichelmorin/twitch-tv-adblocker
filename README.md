@@ -1,3 +1,4 @@
+# EDIT: I've found the owner, he simply updated the extension and reuploaded it under a new name. https://github.com/cleanlock/VideoAdBlockForTwitch
 # Twitch TV Adblocker
 
 This extension was removed from the Chrome Web Store for "not respecting their publishing rules and policies". Use at your own risk.
